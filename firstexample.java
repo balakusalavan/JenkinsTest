@@ -4,7 +4,6 @@ public static void main(String[] args){
 
 System.out.println("This is to test jenkins files and folders");
 
-  System.out.println("This  is second test")
 
 }
 
